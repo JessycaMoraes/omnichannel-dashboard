@@ -1,0 +1,3154 @@
+{
+    "ads_data": [
+        {
+            "data": "2020-11-01",
+            "pedido_id": 2001,
+            "cliente_id": 1001,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-01",
+            "pedido_id": 2002,
+            "cliente_id": 1002,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-11-01",
+            "pedido_id": 2003,
+            "cliente_id": 1003,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-02",
+            "pedido_id": 2004,
+            "cliente_id": 1004,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-02",
+            "pedido_id": 2005,
+            "cliente_id": 1005,
+            "canal": "WhatsApp",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-03",
+            "pedido_id": 2006,
+            "cliente_id": 1006,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-03",
+            "pedido_id": 2007,
+            "cliente_id": 1007,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-03",
+            "pedido_id": 2008,
+            "cliente_id": 1008,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-11-04",
+            "pedido_id": 2009,
+            "cliente_id": 1009,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-04",
+            "pedido_id": 2010,
+            "cliente_id": 1010,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-04",
+            "pedido_id": 2011,
+            "cliente_id": 1011,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-04",
+            "pedido_id": 2012,
+            "cliente_id": 1012,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-04",
+            "pedido_id": 2013,
+            "cliente_id": 1013,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-05",
+            "pedido_id": 2014,
+            "cliente_id": 1014,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-05",
+            "pedido_id": 2015,
+            "cliente_id": 1015,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-05",
+            "pedido_id": 2016,
+            "cliente_id": 1016,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-06",
+            "pedido_id": 2017,
+            "cliente_id": 1017,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-06",
+            "pedido_id": 2018,
+            "cliente_id": 1018,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-07",
+            "pedido_id": 2019,
+            "cliente_id": 1019,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-07",
+            "pedido_id": 2020,
+            "cliente_id": 1020,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-07",
+            "pedido_id": 2021,
+            "cliente_id": 1021,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-07",
+            "pedido_id": 2022,
+            "cliente_id": 1022,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-07",
+            "pedido_id": 2023,
+            "cliente_id": 1023,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-08",
+            "pedido_id": 2024,
+            "cliente_id": 1024,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-08",
+            "pedido_id": 2025,
+            "cliente_id": 1025,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-08",
+            "pedido_id": 2026,
+            "cliente_id": 1026,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-11-08",
+            "pedido_id": 2027,
+            "cliente_id": 1027,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-11-08",
+            "pedido_id": 2028,
+            "cliente_id": 1028,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-09",
+            "pedido_id": 2029,
+            "cliente_id": 1029,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-09",
+            "pedido_id": 2030,
+            "cliente_id": 1030,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-09",
+            "pedido_id": 2031,
+            "cliente_id": 1031,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-10",
+            "pedido_id": 2032,
+            "cliente_id": 1032,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-10",
+            "pedido_id": 2033,
+            "cliente_id": 1033,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-10",
+            "pedido_id": 2034,
+            "cliente_id": 1034,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-10",
+            "pedido_id": 2035,
+            "cliente_id": 1035,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-11-11",
+            "pedido_id": 2036,
+            "cliente_id": 1036,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-11",
+            "pedido_id": 2037,
+            "cliente_id": 1037,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-11-11",
+            "pedido_id": 2038,
+            "cliente_id": 1038,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-11-12",
+            "pedido_id": 2039,
+            "cliente_id": 1039,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-12",
+            "pedido_id": 2040,
+            "cliente_id": 1040,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-13",
+            "pedido_id": 2041,
+            "cliente_id": 1041,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-13",
+            "pedido_id": 2042,
+            "cliente_id": 1042,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-11-13",
+            "pedido_id": 2043,
+            "cliente_id": 1043,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-14",
+            "pedido_id": 2044,
+            "cliente_id": 1044,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-14",
+            "pedido_id": 2045,
+            "cliente_id": 1045,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-15",
+            "pedido_id": 2046,
+            "cliente_id": 1046,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-15",
+            "pedido_id": 2047,
+            "cliente_id": 1047,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-11-15",
+            "pedido_id": 2048,
+            "cliente_id": 1048,
+            "canal": "Telefone",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-11-15",
+            "pedido_id": 2049,
+            "cliente_id": 1049,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-11-15",
+            "pedido_id": 2050,
+            "cliente_id": 1050,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-16",
+            "pedido_id": 2051,
+            "cliente_id": 1051,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-16",
+            "pedido_id": 2052,
+            "cliente_id": 1052,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-16",
+            "pedido_id": 2053,
+            "cliente_id": 1053,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-16",
+            "pedido_id": 2054,
+            "cliente_id": 1054,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-17",
+            "pedido_id": 2055,
+            "cliente_id": 1055,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-17",
+            "pedido_id": 2056,
+            "cliente_id": 1056,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-11-17",
+            "pedido_id": 2057,
+            "cliente_id": 1057,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-18",
+            "pedido_id": 2058,
+            "cliente_id": 1058,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-18",
+            "pedido_id": 2059,
+            "cliente_id": 1059,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-18",
+            "pedido_id": 2060,
+            "cliente_id": 1060,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-18",
+            "pedido_id": 2061,
+            "cliente_id": 1061,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-18",
+            "pedido_id": 2062,
+            "cliente_id": 1062,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-19",
+            "pedido_id": 2063,
+            "cliente_id": 1063,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-19",
+            "pedido_id": 2064,
+            "cliente_id": 1064,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-19",
+            "pedido_id": 2065,
+            "cliente_id": 1065,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-19",
+            "pedido_id": 2066,
+            "cliente_id": 1066,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-11-19",
+            "pedido_id": 2067,
+            "cliente_id": 1067,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-20",
+            "pedido_id": 2068,
+            "cliente_id": 1068,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-11-20",
+            "pedido_id": 2069,
+            "cliente_id": 1069,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-20",
+            "pedido_id": 2070,
+            "cliente_id": 1070,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-20",
+            "pedido_id": 2071,
+            "cliente_id": 1071,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-11-21",
+            "pedido_id": 2072,
+            "cliente_id": 1072,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-21",
+            "pedido_id": 2073,
+            "cliente_id": 1073,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-21",
+            "pedido_id": 2074,
+            "cliente_id": 1074,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-11-21",
+            "pedido_id": 2075,
+            "cliente_id": 1075,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-11-21",
+            "pedido_id": 2076,
+            "cliente_id": 1076,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-11-22",
+            "pedido_id": 2077,
+            "cliente_id": 1077,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-22",
+            "pedido_id": 2078,
+            "cliente_id": 1078,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-22",
+            "pedido_id": 2079,
+            "cliente_id": 1079,
+            "canal": "Telefone",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-23",
+            "pedido_id": 2080,
+            "cliente_id": 1080,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-11-23",
+            "pedido_id": 2081,
+            "cliente_id": 1081,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-23",
+            "pedido_id": 2082,
+            "cliente_id": 1082,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-11-24",
+            "pedido_id": 2083,
+            "cliente_id": 1083,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-11-24",
+            "pedido_id": 2084,
+            "cliente_id": 1084,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-24",
+            "pedido_id": 2085,
+            "cliente_id": 1085,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-24",
+            "pedido_id": 2086,
+            "cliente_id": 1086,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-11-24",
+            "pedido_id": 2087,
+            "cliente_id": 1087,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-11-25",
+            "pedido_id": 2088,
+            "cliente_id": 1088,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-25",
+            "pedido_id": 2089,
+            "cliente_id": 1089,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-26",
+            "pedido_id": 2090,
+            "cliente_id": 1090,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-26",
+            "pedido_id": 2091,
+            "cliente_id": 1091,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-26",
+            "pedido_id": 2092,
+            "cliente_id": 1092,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-26",
+            "pedido_id": 2093,
+            "cliente_id": 1093,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-11-27",
+            "pedido_id": 2094,
+            "cliente_id": 1094,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-11-27",
+            "pedido_id": 2095,
+            "cliente_id": 1095,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-11-28",
+            "pedido_id": 2096,
+            "cliente_id": 1096,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-28",
+            "pedido_id": 2097,
+            "cliente_id": 1097,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-11-28",
+            "pedido_id": 2098,
+            "cliente_id": 1098,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-11-29",
+            "pedido_id": 2099,
+            "cliente_id": 1099,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-29",
+            "pedido_id": 2100,
+            "cliente_id": 1100,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-11-29",
+            "pedido_id": 2101,
+            "cliente_id": 1101,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-11-29",
+            "pedido_id": 2102,
+            "cliente_id": 1102,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-29",
+            "pedido_id": 2103,
+            "cliente_id": 1103,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-11-30",
+            "pedido_id": 2104,
+            "cliente_id": 1104,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-11-30",
+            "pedido_id": 2105,
+            "cliente_id": 1105,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-11-30",
+            "pedido_id": 2106,
+            "cliente_id": 1106,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-01",
+            "pedido_id": 2107,
+            "cliente_id": 1107,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-01",
+            "pedido_id": 2108,
+            "cliente_id": 1108,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-01",
+            "pedido_id": 2109,
+            "cliente_id": 1109,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-02",
+            "pedido_id": 2110,
+            "cliente_id": 1110,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-02",
+            "pedido_id": 2111,
+            "cliente_id": 1111,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-12-02",
+            "pedido_id": 2112,
+            "cliente_id": 1112,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-03",
+            "pedido_id": 2113,
+            "cliente_id": 1113,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-12-03",
+            "pedido_id": 2114,
+            "cliente_id": 1114,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-03",
+            "pedido_id": 2115,
+            "cliente_id": 1115,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-12-03",
+            "pedido_id": 2116,
+            "cliente_id": 1116,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-03",
+            "pedido_id": 2117,
+            "cliente_id": 1117,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-04",
+            "pedido_id": 2118,
+            "cliente_id": 1118,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-12-04",
+            "pedido_id": 2119,
+            "cliente_id": 1119,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-12-04",
+            "pedido_id": 2120,
+            "cliente_id": 1120,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-12-04",
+            "pedido_id": 2121,
+            "cliente_id": 1121,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-04",
+            "pedido_id": 2122,
+            "cliente_id": 1122,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-05",
+            "pedido_id": 2123,
+            "cliente_id": 1123,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-05",
+            "pedido_id": 2124,
+            "cliente_id": 1124,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-12-05",
+            "pedido_id": 2125,
+            "cliente_id": 1125,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-05",
+            "pedido_id": 2126,
+            "cliente_id": 1126,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-05",
+            "pedido_id": 2127,
+            "cliente_id": 1127,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-06",
+            "pedido_id": 2128,
+            "cliente_id": 1128,
+            "canal": "WhatsApp",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-06",
+            "pedido_id": 2129,
+            "cliente_id": 1129,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-12-06",
+            "pedido_id": 2130,
+            "cliente_id": 1130,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-12-06",
+            "pedido_id": 2131,
+            "cliente_id": 1131,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-07",
+            "pedido_id": 2132,
+            "cliente_id": 1132,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-12-07",
+            "pedido_id": 2133,
+            "cliente_id": 1133,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-08",
+            "pedido_id": 2134,
+            "cliente_id": 1134,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-08",
+            "pedido_id": 2135,
+            "cliente_id": 1135,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-12-08",
+            "pedido_id": 2136,
+            "cliente_id": 1136,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-08",
+            "pedido_id": 2137,
+            "cliente_id": 1137,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-09",
+            "pedido_id": 2138,
+            "cliente_id": 1138,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-12-09",
+            "pedido_id": 2139,
+            "cliente_id": 1139,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-09",
+            "pedido_id": 2140,
+            "cliente_id": 1140,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-09",
+            "pedido_id": 2141,
+            "cliente_id": 1141,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-12-09",
+            "pedido_id": 2142,
+            "cliente_id": 1142,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-12-10",
+            "pedido_id": 2143,
+            "cliente_id": 1143,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-12-10",
+            "pedido_id": 2144,
+            "cliente_id": 1144,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-12-10",
+            "pedido_id": 2145,
+            "cliente_id": 1145,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-12-10",
+            "pedido_id": 2146,
+            "cliente_id": 1146,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-11",
+            "pedido_id": 2147,
+            "cliente_id": 1147,
+            "canal": "WhatsApp",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-11",
+            "pedido_id": 2148,
+            "cliente_id": 1148,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-12",
+            "pedido_id": 2149,
+            "cliente_id": 1149,
+            "canal": "WhatsApp",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-12",
+            "pedido_id": 2150,
+            "cliente_id": 1150,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-12-12",
+            "pedido_id": 2151,
+            "cliente_id": 1151,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-12",
+            "pedido_id": 2152,
+            "cliente_id": 1152,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-13",
+            "pedido_id": 2153,
+            "cliente_id": 1153,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-13",
+            "pedido_id": 2154,
+            "cliente_id": 1154,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-12-13",
+            "pedido_id": 2155,
+            "cliente_id": 1155,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-13",
+            "pedido_id": 2156,
+            "cliente_id": 1156,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-14",
+            "pedido_id": 2157,
+            "cliente_id": 1157,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-14",
+            "pedido_id": 2158,
+            "cliente_id": 1158,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-15",
+            "pedido_id": 2159,
+            "cliente_id": 1159,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-15",
+            "pedido_id": 2160,
+            "cliente_id": 1160,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-15",
+            "pedido_id": 2161,
+            "cliente_id": 1161,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-12-15",
+            "pedido_id": 2162,
+            "cliente_id": 1162,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-12-15",
+            "pedido_id": 2163,
+            "cliente_id": 1163,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-16",
+            "pedido_id": 2164,
+            "cliente_id": 1164,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-12-16",
+            "pedido_id": 2165,
+            "cliente_id": 1165,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-17",
+            "pedido_id": 2166,
+            "cliente_id": 1166,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-17",
+            "pedido_id": 2167,
+            "cliente_id": 1167,
+            "canal": "Telefone",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-12-18",
+            "pedido_id": 2168,
+            "cliente_id": 1168,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-18",
+            "pedido_id": 2169,
+            "cliente_id": 1169,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-12-19",
+            "pedido_id": 2170,
+            "cliente_id": 1170,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-19",
+            "pedido_id": 2171,
+            "cliente_id": 1171,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-12-19",
+            "pedido_id": 2172,
+            "cliente_id": 1172,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-20",
+            "pedido_id": 2173,
+            "cliente_id": 1173,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-20",
+            "pedido_id": 2174,
+            "cliente_id": 1174,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-20",
+            "pedido_id": 2175,
+            "cliente_id": 1175,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-12-20",
+            "pedido_id": 2176,
+            "cliente_id": 1176,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-20",
+            "pedido_id": 2177,
+            "cliente_id": 1177,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-12-21",
+            "pedido_id": 2178,
+            "cliente_id": 1178,
+            "canal": "Telefone",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2020-12-21",
+            "pedido_id": 2179,
+            "cliente_id": 1179,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-21",
+            "pedido_id": 2180,
+            "cliente_id": 1180,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-12-21",
+            "pedido_id": 2181,
+            "cliente_id": 1181,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-21",
+            "pedido_id": 2182,
+            "cliente_id": 1182,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-12-22",
+            "pedido_id": 2183,
+            "cliente_id": 1183,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-22",
+            "pedido_id": 2184,
+            "cliente_id": 1184,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-22",
+            "pedido_id": 2185,
+            "cliente_id": 1185,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2020-12-23",
+            "pedido_id": 2186,
+            "cliente_id": 1186,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-23",
+            "pedido_id": 2187,
+            "cliente_id": 1187,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-12-24",
+            "pedido_id": 2188,
+            "cliente_id": 1188,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-24",
+            "pedido_id": 2189,
+            "cliente_id": 1189,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-24",
+            "pedido_id": 2190,
+            "cliente_id": 1190,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-24",
+            "pedido_id": 2191,
+            "cliente_id": 1191,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-25",
+            "pedido_id": 2192,
+            "cliente_id": 1192,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-25",
+            "pedido_id": 2193,
+            "cliente_id": 1193,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-25",
+            "pedido_id": 2194,
+            "cliente_id": 1194,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-12-25",
+            "pedido_id": 2195,
+            "cliente_id": 1195,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2020-12-26",
+            "pedido_id": 2196,
+            "cliente_id": 1196,
+            "canal": "WhatsApp",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2020-12-26",
+            "pedido_id": 2197,
+            "cliente_id": 1197,
+            "canal": "WhatsApp",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-26",
+            "pedido_id": 2198,
+            "cliente_id": 1198,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-27",
+            "pedido_id": 2199,
+            "cliente_id": 1199,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-27",
+            "pedido_id": 2200,
+            "cliente_id": 1200,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-27",
+            "pedido_id": 2201,
+            "cliente_id": 1201,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2020-12-27",
+            "pedido_id": 2202,
+            "cliente_id": 1202,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-28",
+            "pedido_id": 2203,
+            "cliente_id": 1203,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-28",
+            "pedido_id": 2204,
+            "cliente_id": 1204,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2020-12-29",
+            "pedido_id": 2205,
+            "cliente_id": 1205,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2020-12-29",
+            "pedido_id": 2206,
+            "cliente_id": 1206,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-29",
+            "pedido_id": 2207,
+            "cliente_id": 1207,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-12-30",
+            "pedido_id": 2208,
+            "cliente_id": 1208,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2020-12-30",
+            "pedido_id": 2209,
+            "cliente_id": 1209,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2020-12-30",
+            "pedido_id": 2210,
+            "cliente_id": 1210,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2020-12-30",
+            "pedido_id": 2211,
+            "cliente_id": 1211,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2020-12-31",
+            "pedido_id": 2212,
+            "cliente_id": 1212,
+            "canal": "Telefone",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2020-12-31",
+            "pedido_id": 2213,
+            "cliente_id": 1213,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2020-12-31",
+            "pedido_id": 2214,
+            "cliente_id": 1214,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2020-12-31",
+            "pedido_id": 2215,
+            "cliente_id": 1215,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-01",
+            "pedido_id": 2216,
+            "cliente_id": 1216,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-01",
+            "pedido_id": 2217,
+            "cliente_id": 1217,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2021-01-01",
+            "pedido_id": 2218,
+            "cliente_id": 1218,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-01",
+            "pedido_id": 2219,
+            "cliente_id": 1219,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-02",
+            "pedido_id": 2220,
+            "cliente_id": 1220,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2021-01-02",
+            "pedido_id": 2221,
+            "cliente_id": 1221,
+            "canal": "Loja F\u00edsica",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2021-01-03",
+            "pedido_id": 2222,
+            "cliente_id": 1222,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-03",
+            "pedido_id": 2223,
+            "cliente_id": 1223,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2021-01-03",
+            "pedido_id": 2224,
+            "cliente_id": 1224,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-04",
+            "pedido_id": 2225,
+            "cliente_id": 1225,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-04",
+            "pedido_id": 2226,
+            "cliente_id": 1226,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-04",
+            "pedido_id": 2227,
+            "cliente_id": 1227,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-05",
+            "pedido_id": 2228,
+            "cliente_id": 1228,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-05",
+            "pedido_id": 2229,
+            "cliente_id": 1229,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-05",
+            "pedido_id": 2230,
+            "cliente_id": 1230,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2021-01-05",
+            "pedido_id": 2231,
+            "cliente_id": 1231,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-06",
+            "pedido_id": 2232,
+            "cliente_id": 1232,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-06",
+            "pedido_id": 2233,
+            "cliente_id": 1233,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-06",
+            "pedido_id": 2234,
+            "cliente_id": 1234,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-07",
+            "pedido_id": 2235,
+            "cliente_id": 1235,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-07",
+            "pedido_id": 2236,
+            "cliente_id": 1236,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2021-01-08",
+            "pedido_id": 2237,
+            "cliente_id": 1237,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2021-01-08",
+            "pedido_id": 2238,
+            "cliente_id": 1238,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-08",
+            "pedido_id": 2239,
+            "cliente_id": 1239,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2021-01-08",
+            "pedido_id": 2240,
+            "cliente_id": 1240,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2021-01-08",
+            "pedido_id": 2241,
+            "cliente_id": 1241,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2021-01-09",
+            "pedido_id": 2242,
+            "cliente_id": 1242,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-09",
+            "pedido_id": 2243,
+            "cliente_id": 1243,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-10",
+            "pedido_id": 2244,
+            "cliente_id": 1244,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-10",
+            "pedido_id": 2245,
+            "cliente_id": 1245,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-10",
+            "pedido_id": 2246,
+            "cliente_id": 1246,
+            "canal": "Instagram",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-11",
+            "pedido_id": 2247,
+            "cliente_id": 1247,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2021-01-11",
+            "pedido_id": 2248,
+            "cliente_id": 1248,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-11",
+            "pedido_id": 2249,
+            "cliente_id": 1249,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-11",
+            "pedido_id": 2250,
+            "cliente_id": 1250,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-12",
+            "pedido_id": 2251,
+            "cliente_id": 1251,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2021-01-12",
+            "pedido_id": 2252,
+            "cliente_id": 1252,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-12",
+            "pedido_id": 2253,
+            "cliente_id": 1253,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-12",
+            "pedido_id": 2254,
+            "cliente_id": 1254,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2021-01-13",
+            "pedido_id": 2255,
+            "cliente_id": 1255,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-13",
+            "pedido_id": 2256,
+            "cliente_id": 1256,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-13",
+            "pedido_id": 2257,
+            "cliente_id": 1257,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2021-01-14",
+            "pedido_id": 2258,
+            "cliente_id": 1258,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-14",
+            "pedido_id": 2259,
+            "cliente_id": 1259,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2021-01-15",
+            "pedido_id": 2260,
+            "cliente_id": 1260,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-15",
+            "pedido_id": 2261,
+            "cliente_id": 1261,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-16",
+            "pedido_id": 2262,
+            "cliente_id": 1262,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-16",
+            "pedido_id": 2263,
+            "cliente_id": 1263,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-16",
+            "pedido_id": 2264,
+            "cliente_id": 1264,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-16",
+            "pedido_id": 2265,
+            "cliente_id": 1265,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-17",
+            "pedido_id": 2266,
+            "cliente_id": 1266,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 3,
+            "valor_unitario": 120,
+            "valor_total": 360
+        },
+        {
+            "data": "2021-01-17",
+            "pedido_id": 2267,
+            "cliente_id": 1267,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-17",
+            "pedido_id": 2268,
+            "cliente_id": 1268,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2021-01-17",
+            "pedido_id": 2269,
+            "cliente_id": 1269,
+            "canal": "WhatsApp",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-17",
+            "pedido_id": 2270,
+            "cliente_id": 1270,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-18",
+            "pedido_id": 2271,
+            "cliente_id": 1271,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-18",
+            "pedido_id": 2272,
+            "cliente_id": 1272,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-18",
+            "pedido_id": 2273,
+            "cliente_id": 1273,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-19",
+            "pedido_id": 2274,
+            "cliente_id": 1274,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 1,
+            "valor_unitario": 120,
+            "valor_total": 120
+        },
+        {
+            "data": "2021-01-19",
+            "pedido_id": 2275,
+            "cliente_id": 1275,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-19",
+            "pedido_id": 2276,
+            "cliente_id": 1276,
+            "canal": "Loja F\u00edsica",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2021-01-20",
+            "pedido_id": 2277,
+            "cliente_id": 1277,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2021-01-20",
+            "pedido_id": 2278,
+            "cliente_id": 1278,
+            "canal": "Telefone",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-20",
+            "pedido_id": 2279,
+            "cliente_id": 1279,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-20",
+            "pedido_id": 2280,
+            "cliente_id": 1280,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-21",
+            "pedido_id": 2281,
+            "cliente_id": 1281,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-21",
+            "pedido_id": 2282,
+            "cliente_id": 1282,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-21",
+            "pedido_id": 2283,
+            "cliente_id": 1283,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-21",
+            "pedido_id": 2284,
+            "cliente_id": 1284,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-21",
+            "pedido_id": 2285,
+            "cliente_id": 1285,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-22",
+            "pedido_id": 2286,
+            "cliente_id": 1286,
+            "canal": "Telefone",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-22",
+            "pedido_id": 2287,
+            "cliente_id": 1287,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 1,
+            "valor_unitario": 80,
+            "valor_total": 80
+        },
+        {
+            "data": "2021-01-22",
+            "pedido_id": 2288,
+            "cliente_id": 1288,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-23",
+            "pedido_id": 2289,
+            "cliente_id": 1289,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-23",
+            "pedido_id": 2290,
+            "cliente_id": 1290,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-24",
+            "pedido_id": 2291,
+            "cliente_id": 1291,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 2,
+            "valor_unitario": 50,
+            "valor_total": 100
+        },
+        {
+            "data": "2021-01-24",
+            "pedido_id": 2292,
+            "cliente_id": 1292,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-24",
+            "pedido_id": 2293,
+            "cliente_id": 1293,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-24",
+            "pedido_id": 2294,
+            "cliente_id": 1294,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-25",
+            "pedido_id": 2295,
+            "cliente_id": 1295,
+            "canal": "Telefone",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-25",
+            "pedido_id": 2296,
+            "cliente_id": 1296,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-25",
+            "pedido_id": 2297,
+            "cliente_id": 1297,
+            "canal": "WhatsApp",
+            "produto": "Camiseta Azul",
+            "qtd": 2,
+            "valor_unitario": 80,
+            "valor_total": 160
+        },
+        {
+            "data": "2021-01-25",
+            "pedido_id": 2298,
+            "cliente_id": 1298,
+            "canal": "Telefone",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-26",
+            "pedido_id": 2299,
+            "cliente_id": 1299,
+            "canal": "Loja F\u00edsica",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-26",
+            "pedido_id": 2300,
+            "cliente_id": 1300,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 3,
+            "valor_unitario": 200,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-26",
+            "pedido_id": 2301,
+            "cliente_id": 1301,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 3,
+            "valor_unitario": 300,
+            "valor_total": 900
+        },
+        {
+            "data": "2021-01-27",
+            "pedido_id": 2302,
+            "cliente_id": 1302,
+            "canal": "Instagram",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 1,
+            "valor_unitario": 50,
+            "valor_total": 50
+        },
+        {
+            "data": "2021-01-27",
+            "pedido_id": 2303,
+            "cliente_id": 1303,
+            "canal": "Instagram",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 2,
+            "valor_unitario": 150,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-28",
+            "pedido_id": 2304,
+            "cliente_id": 1304,
+            "canal": "Loja F\u00edsica",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2021-01-28",
+            "pedido_id": 2305,
+            "cliente_id": 1305,
+            "canal": "WhatsApp",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 3,
+            "valor_unitario": 150,
+            "valor_total": 450
+        },
+        {
+            "data": "2021-01-28",
+            "pedido_id": 2306,
+            "cliente_id": 1306,
+            "canal": "WhatsApp",
+            "produto": "Bon\u00e9 Vermelho",
+            "qtd": 3,
+            "valor_unitario": 50,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-29",
+            "pedido_id": 2307,
+            "cliente_id": 1307,
+            "canal": "Telefone",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        },
+        {
+            "data": "2021-01-29",
+            "pedido_id": 2308,
+            "cliente_id": 1308,
+            "canal": "Instagram",
+            "produto": "Jaqueta de Couro",
+            "qtd": 2,
+            "valor_unitario": 300,
+            "valor_total": 600
+        },
+        {
+            "data": "2021-01-30",
+            "pedido_id": 2309,
+            "cliente_id": 1309,
+            "canal": "Instagram",
+            "produto": "Camiseta Azul",
+            "qtd": 3,
+            "valor_unitario": 80,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-30",
+            "pedido_id": 2310,
+            "cliente_id": 1310,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2021-01-30",
+            "pedido_id": 2311,
+            "cliente_id": 1311,
+            "canal": "Telefone",
+            "produto": "Mochila Preta",
+            "qtd": 2,
+            "valor_unitario": 120,
+            "valor_total": 240
+        },
+        {
+            "data": "2021-01-31",
+            "pedido_id": 2312,
+            "cliente_id": 1312,
+            "canal": "Instagram",
+            "produto": "T\u00eanis Branco",
+            "qtd": 1,
+            "valor_unitario": 200,
+            "valor_total": 200
+        },
+        {
+            "data": "2021-01-31",
+            "pedido_id": 2313,
+            "cliente_id": 1313,
+            "canal": "Loja F\u00edsica",
+            "produto": "Cal\u00e7a Jeans",
+            "qtd": 1,
+            "valor_unitario": 150,
+            "valor_total": 150
+        },
+        {
+            "data": "2021-01-31",
+            "pedido_id": 2314,
+            "cliente_id": 1314,
+            "canal": "WhatsApp",
+            "produto": "T\u00eanis Branco",
+            "qtd": 2,
+            "valor_unitario": 200,
+            "valor_total": 400
+        },
+        {
+            "data": "2021-01-31",
+            "pedido_id": 2315,
+            "cliente_id": 1315,
+            "canal": "Loja F\u00edsica",
+            "produto": "Jaqueta de Couro",
+            "qtd": 1,
+            "valor_unitario": 300,
+            "valor_total": 300
+        }
+    ]
+}
